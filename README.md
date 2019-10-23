@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/stephentong970839/Pipelines%20Java/_apis/build/status/stephentong97.pipelines-java?branchName=master)](https://dev.azure.com/stephentong970839/Pipelines%20Java/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
